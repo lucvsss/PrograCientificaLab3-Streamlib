@@ -1,7 +1,7 @@
 import pandas as pd
 
 class Versiculo:
-     def __init__(self, libro, capitulo, numero, texto_original):
+    def __init__(self, libro, capitulo, numero, texto_original):
         self.libro = libro
         self.capitulo = capitulo
         self.numero = numero
